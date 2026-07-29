@@ -1,58 +1,76 @@
 # CRM Sales Analytics Dashboard using Power BI
 
-This project demonstrates how Power BI can be used to analyze CRM sales data and create interactive dashboards for business decision-making. The dashboard provides insights into lead conversion, sales pipeline performance, customer accounts, and salesperson productivity using interactive visualizations, KPIs, and slicers.
-
-## Dashboard Review
-### Executive Dashboard
+## Executive Dashboard
 ![Executive Dashboard](Images/executive_dashboard.png)
 
-### Detailed Sales Analysis
+## Detailed Sales Analysis
 ![Detailed Sales Analysis](Images/detailed_sales_analysis.png)
 
-### Data Model
+## Data Model
 ![Data Model](Images/data_model.png)
 
 ## Project Overview
 
-The dashboard analyzes CRM sales data to answer key business questions such as:
+This project analyzes CRM sales data using Power BI. The dashboard provides insights into lead conversion, sales pipeline performance, opportunity stages, salesperson productivity, and revenue forecasting to support business decision-making.
 
-- What is the lead conversion rate?
-- Which sales representatives generate the highest pipeline revenue?
-- Which opportunity stages contribute the most revenue?
-- Which customer accounts generate the highest revenue?
-- How does pipeline performance change over time?
+## Dataset
+
+The project uses four CRM tables:
+- Lead
+- Opportunity
+- Account
+- User
 
 ## Dashboard Features
 
-Executive Dashboard
+✔ Executive Dashboard
+
+✔ Sales Analysis Dashboard
+
+✔ Interactive Slicers
+
+✔ KPI Cards
+
+✔ Revenue Analysis
+
+✔ Lead Conversion Analysis
+
+✔ Top Revenue Accounts
+
+✔ Monthly Pipeline Trend
+
+## DAX Measures
+
 - Total Leads
 - Converted Leads
 - Lead Conversion Rate
-- Total Opportunities
 - Pipeline Revenue
 - Forecasted Revenue
 - Average Deal Size
-- Interactive Slicers
-
-Detailed Sales Analysis
-- Lead Conversion by Sales Representative
-- Revenue by Job Title
-- Top 10 Revenue Accounts
-- Lead Status Distribution
 - Average Opportunity Probability
-- Average Deal Size
+- Total Accounts
 
 ## Skills Demonstrated
-- Power BI
+
+- Power BI Desktop
+- DAX
 - Power Query
 - Data Modeling
-- DAX Measures
-- KPI Cards
-- Interactive Dashboards
-- Slicers
+- Data Visualization
 - Business Intelligence
 - CRM Analytics
-- Sales Analytics
+
+## Key Insights
+
+• Lead conversion rate is 52.61%.
+
+• Closed Won opportunities contribute the highest pipeline revenue.
+
+• Account Executives generate the highest revenue.
+
+• Top 10 accounts contribute a significant share of pipeline revenue.
+
+• Web and Partner Referral are major lead sources.
 
 ## Technologies
 - Microsoft Power BI
